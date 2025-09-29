@@ -3,7 +3,7 @@
 ## Description
 573,264 Images Test-paper & Workbook & Answer-sheet Collection Data. The dataset inlcudes 35,823 test papers, 457,970 workbooks and 79,471 answer sheets. The dataset covers multiple types of questions, multiple subjects, multiple types, multiple grades. The collection device are cellphone and scanner. The data can be used for tasks such as intelligent scoring and homework guidance. We strictly adhere to data protection regulations and privacy standards, ensuring the maintenance of user privacy and legal rights throughout the data collection, storage, and usage processes, our datasets are all GDPR, CCPA, PIPL complied.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1305?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/ocr/1305?source=Github
 
 ## Specifications
 ### Data size
